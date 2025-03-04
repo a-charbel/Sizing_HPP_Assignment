@@ -13,7 +13,7 @@ Welcome to the Sizing HPP Assignment! This guide will help you set up and start 
 ### Step 2: Open the Assignment Notebook
 - Once in Colab, navigate to `File` > `Open notebook`.
 - A new window will pop up. Here, select the `GitHub` tab on the left.
-- Enter the repository URL: `https://github.com/a-charbel/Sizing_HPP_Assignment.git` and press Enter.
+- Enter the repository URL: `https://github.com/megha-dtu/Sizing_HPP_Assignment.git` and press Enter.
 - After a few seconds, the list of available notebooks will load. Look for `Requirements_before_assignment.ipynb` and select it.
 
 ### Step 3: Prepare Your Environment
